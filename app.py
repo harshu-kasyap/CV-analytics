@@ -163,7 +163,7 @@ footer_col1, footer_col2, footer_col3 = st.columns([1, 6, 1])
 with footer_col2:
     st.write('Gemini AI powered Resume Advisor model  build by Harsh')
     # Display link for users to connect with you using emojis
-    st.write("Connect with me 👇👇 [here](https://kumarharsh.vercel.app/)")
+    st.write("Connect with me 👉👉 [here](https://kumarharsh.vercel.app/)")
 
 
 
