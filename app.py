@@ -35,9 +35,13 @@ st.set_page_config(page_title="Resume Advisor",
 page_icon=":clipboard:", )
 
 # Navigation Bar with Tabs
+st.sidebar.image("C:\\Users\\harsh\\Downloads\\resume.ico", use_column_width=True)
 navigation = st.sidebar.title("Select Role")
-navigation = st.header("RESUME ADVISOR")
-selected_tab = st.sidebar.selectbox("", ["HR", "Applicant"])
+st.image("C:\\Users\\harsh\\Downloads\\skillmatch-high-resolution-logo-transparent (1).png" , use_column_width=True)
+# st.header("SKILLMATCH📋")
+st.markdown("Where Talent Meets Opportunity!")
+
+
  
      #-------------------------------------------------------------------#
      
